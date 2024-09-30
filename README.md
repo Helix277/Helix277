@@ -6,9 +6,9 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🔭: I’m currently working on many small Data Analytics projects.
+- 🔭: I’m currently working on Data Analytics projects.
 - 🌱: I’m currently learning AWS and Data Engineering. 🧠💻🤖
-- 🤔: I’m seeking help with anything I am currently learning! 😅
+- 🤔: I’m seeking help with anything I am currently learning! 
 - 💬: Ask me about Data Analysis and visualization. 📊📈🤖🧠
 - ⚡: Two Truths One Lie:
      1. I Possess Cooking Skills,
